@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreemanti Dey (@alexriderspy) 
 - 👀 I’m interested in technology, development and competitive programming
-- 🌱 I’m currently learning how to use flutter
-- 💞️ I’m looking to collaborate on many projects with you, let's brainstorm new ideas
+- 🌱 I’m currently looking for open-source projects to contribute!
+- 💞️ I’m looking forward to collaborate on many projects with you, let's brainstorm new ideas!!!!
 - 📫 How to reach me.. [My LinkedIn profile](https://www.linkedin.com/in/sreemanti-dey-b3487b208/)
